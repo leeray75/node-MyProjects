@@ -1,0 +1,19 @@
+{
+  "name": "my-projects",
+  "version": "0.0.1",
+  "description": "My Test Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymond Lee",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^1.4.1",
+    "typescript": "^1.7.5"
+  },
+  "repository" :
+  { "type" : "git",
+	"url" : "https://github.com/leeray75/node-MyProjects.git"
+  }
+}
