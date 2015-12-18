@@ -1,0 +1,12 @@
+[
+  {
+    // App2
+    "uid": "app",
+    "append": true,
+    "watch": true,
+    "script": "index.js",
+    "sourceDir": "c:\\Node\\MyProjects",
+    // "args": ["--harmony"]
+	"command": "node --harmony"
+  }
+]
