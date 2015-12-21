@@ -9,11 +9,20 @@
   "author": "Raymond Lee",
   "license": "MIT",
   "dependencies": {
+    "angular2": "^2.0.0-beta.0",
     "chokidar": "^1.4.1",
-    "typescript": "^1.7.5"
+    "connect": "^3.4.0",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.13",
+    "reflect-metadata": "^0.1.2",
+    "rxjs": "^5.0.0-beta.0",
+    "serve-static": "^1.10.0",
+    "systemjs": "^0.19.9",
+    "typescript": "^1.7.5",
+    "zone.js": "^0.5.10"
   },
-  "repository" :
-  { "type" : "git",
-	"url" : "https://github.com/leeray75/node-MyProjects.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leeray75/node-MyProjects.git"
   }
 }
